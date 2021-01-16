@@ -1,1 +1,44 @@
+body {
+    margin: auto;
+    
+}
 
+.boxes{
+    border-color: black;
+    border: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.sqr {
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    margin: 25px;
+    display: flex;
+  align-items: center;
+  justify-content: center
+    
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color:deepskyblue;
+}
+
+.green {
+    background-color:green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.purple {
+    background-color: blueviolet;
+}
